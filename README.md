@@ -1,33 +1,26 @@
 # Police Night Patrolling System
 
-This project was developed as a real-time police vehicle tracking and incident intelligence platform for district-level night patrolling operations, with integrated AI/ML analytics for patrol coverage and basic decision support.
+A real-time operational software system for police night-patrolling workflows, developed with Government of Assam stakeholders.
 
-## Overview
+## Verified project scope
 
-The system enables control room staff to monitor patrol vehicles in real time, track coverage across key zones, and use data-driven insights to identify under-patrolled areas or operational gaps. It combines a Flutter-based mobile app, Firebase-backed realtime updates, an Express.js backend, and AI/ML modules for analytics.
+- Originated and pitched the platform, secured district-government stakeholder approval and assembled a five-person team.
+- Contributed to authentication, backend and real-time application functionality using Flutter, Firebase and Express.js.
+- Worked through development, testing, user acceptance testing (UAT) and technical handover.
+- The system reached operational use across approximately 30 patrol vehicles and 60+ users.
 
-## Key Features
+## Technologies used
 
-- Real-time location tracking for patrol vehicles
-- Role-based access for control room staff and supervisors
-- Secure authentication and scalable backend architecture
-- AI/ML analytics for patrol coverage, hotspot identification and basic alerts
-- Dashboards and maps for visualising patrol activity
+- Flutter
+- Firebase
+- Express.js
 
-## Technologies Used
+## Public repository scope
 
-- Flutter  
-- Firebase  
-- Express.js  
-- Python (for analytics / ML pipelines)  
-- NumPy, Pandas, scikit-learn (or similar ML stack)  
+This repository contains this project overview and a licence. Application source code, configuration, tests and a runnable demo are not included.
 
-## Project Impact
+The stack, delivery history and adoption figures above are drawn from the author's verified career evidence; they cannot be independently reproduced from this documentation-only repository. This project is presented as operational software delivery.
 
-- Deployed at a district level, supporting around 30 patrol vehicles and 60+ operational users  
-- Designed and delivered by a 5-member engineering team that I founded and led  
-- Improved visibility into patrol coverage and enabled more data-informed decision making for night patrolling operations  
+## Running the project
 
-## Note
-
-Due to government data privacy, security and ownership policies, the full production source code and configuration cannot be publicly shared. This repository can host a demo implementation, mock data, and high-level documentation of the system and AI/ML components.
+There are no public installation or reproduction steps because the implementation is not included.
